@@ -1,0 +1,16 @@
+#	This was put here by the UKWSD security team as a measure to harden Website security.
+#	If you have any concerns / questions feel free to open a ticket from the Customer Portal 
+#
+#	https://ukwebsolutionsdirect.co.uk/portal/clientarea.php
+#
+#	For security reasons it's advised not to delete this file, please feel free to contact us.
+
+
+# BEGIN UKWSD Website Hardening
+
+<FilesMatch "\.(php|php\.)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+# END UKWSD Website Hardening

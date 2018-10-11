@@ -1,0 +1,279 @@
+/* SS Layout */
+
+#sand_container {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	visibility: visible;
+	z-index: auto;
+	height: 773px;
+	width: 887px;
+	background:#4CC0B3 url(../images/ss_sand_bkgnd.png) no-repeat;
+}
+
+#cate_container {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	visibility: visible;
+	z-index: auto;
+	height: 600px;
+	width: 887px;
+	background-color:#4CC0B3;
+	background-image:url(../images/ss_cate_bkgnd.gif);
+	background-repeat:no-repeat
+}
+
+#menu_template
+
+{
+	position:absolute;
+	left:559px;
+	top:0px;
+	width:315px;
+	height:615px;
+	z-index:1;
+	background-image:url(../images/sad_menu_template.gif);
+	background-repeat: no-repeat;
+
+}
+
+#menu_template_home {
+	position:absolute;
+	left:559px;
+	top:0px;
+	width:315px;
+	height:773px!important;
+	z-index:1;
+	background-image:url(../images/sad_menu_template_twitter.gif);
+	background-repeat: no-repeat;
+}
+
+#holding_template
+
+{
+	position:absolute;
+	left:559px;
+	top:200px;
+	width:315px;
+	height:599px;
+	z-index:1;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#roller_placer
+
+{
+	position:absolute;
+	left:23px;
+	top:330px;
+	width:264px;
+	height:247px;
+	z-index:4;
+	overflow: auto;
+
+}
+
+#roller_placer_home
+
+{
+	position:absolute;
+	left:19px;
+	top:330px;
+	width:264px;
+	height:247px;
+	z-index:4;
+
+}
+
+#sandmenuselect
+
+{
+	position:absolute; 
+	left:20px; 
+	top:13px; 
+	width:132px; 
+	height:37px; 
+	z-index:2
+
+}
+
+#cateringmenuselect
+
+{
+	position:absolute; 
+	left:156px; 
+	top:12px; 
+	width:131px; 
+	height:39px; 
+	z-index:3
+
+}
+
+#sand_menu_container_top
+
+{
+	position:absolute; 
+	left:22px; 
+	top:55px; 
+	width:276px; 
+	height:239px; 
+	z-index:1
+
+}
+#sand_menu_container_bottom
+
+{
+	position:absolute; 
+	left:21px; 
+	top:310px; 
+	width:272px; 
+	height:254px; 
+	z-index:4
+
+}
+
+#sand_image_container
+
+{
+	position:absolute; 
+	left:51px; 
+	top:160px; 
+	width:485px; 
+	height:422px; 
+	z-index:2
+
+}
+
+#Layer1 {
+font-family:Arial,Helvetica,Verdana,sans-serif;
+}
+
+#Layer1 h1.business1 {
+width:241px;
+height:59px;
+margin:0px 0px 15px 16px;
+padding:0px 0px 0px 0px;
+background: url(../images/business1.gif);
+text-indent:-222000px;
+}
+
+#Layer1 p {
+font-size:12px;
+margin:3px 0px 0px 16px;
+padding:0px;
+width:480px;
+font-weight:bold;
+}
+
+#Layer1 p.white {
+color:#fff;
+}
+
+#Layer1 p.break {
+margin:3px 0px 10px 16px;
+}
+
+#Layer1 span.white {
+color:#fff;
+}
+
+#Layer1 ul {
+margin:10px 0px 10px 30px;
+padding:0px 0px 0px 0px;
+}
+
+#Layer1 li {
+font-size:12px;
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+font-weight:bold;
+}
+
+
+body {
+	background-color: #4CC0B3;
+}
+
+
+/* End */
+.menu_item_title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #490D0F;
+}
+.menu_item_description {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #249283;
+}
+.price {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #F4A802;
+}
+
+.sandwiches {
+font-family: Arial, Helvetica, Verdana, Sans-Serif;
+color:#3A948B;
+font-size:12px;
+font-weight:bold;
+padding:2px 0px 0px 5px;
+}
+a.linkbig {
+display:block;
+font-family: Arial, Helvetica, Verdana, Sans-Serif;
+color:#3A948B;
+text-decoration:none;
+font-size:12px;
+width:268px;
+height:14px;
+text-indent:5px;
+line-height:14px;
+font-weight:bold;
+}
+a.linkbig:hover, a.select2 {background: url(../Library/link_hover2.gif) no-repeat;}
+
+a.linksand {
+display:block;
+font-family: Arial, Helvetica, Verdana, Sans-Serif;
+color:#480d0f;
+text-decoration:none;
+font-size:11px;
+width:268px;
+height:18px;
+text-indent:5px;
+line-height:17px;
+font-weight:bold;
+}
+a.linksand:hover, a.selectsand {background: url(../Library/link_hover.gif) no-repeat;}
+
+#twitter {
+	width:286px;
+	position:relative;
+	top:640px;
+	left:25px;
+	font-family:Arial,Helvetica,Verdana,sans-serif;
+	font-weight:bold;
+	font-size:12px;
+}
+
+#twitter_info {
+	position:relative;
+	top:678px;
+	left:84px;
+	font-family:Arial,Helvetica,Verdana,sans-serif;
+	font-weight:normal;
+	font-size:9px;
+	color:#666666;
+}
+
+#footer{
+position:absolute;
+bottom:0px;
+font-family:Arial,Helvetica,Verdana,sans-serif;
+font-size:9px;
+}

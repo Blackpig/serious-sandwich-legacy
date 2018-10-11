@@ -1,0 +1,1253 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lead",
+				"leadClient"
+			],
+			[
+				"workshop",
+				"workshop_id"
+			],
+			[
+				"leadCl",
+				"leadClientId"
+			],
+			[
+				"l",
+				"leadClient"
+			],
+			[
+				"client",
+				"clientId"
+			],
+			[
+				"add",
+				"add_first_name"
+			],
+			[
+				"clien",
+				"client_id"
+			],
+			[
+				"row",
+				"rowId"
+			],
+			[
+				"js",
+				"js-attendees-body"
+			],
+			[
+				"enum",
+				"enumFrenchNames"
+			],
+			[
+				"content",
+				"content-header"
+			],
+			[
+				"col-",
+				"col-sm-offset-1"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"course",
+				"course_id"
+			],
+			[
+				"no",
+				"no_of_days"
+			],
+			[
+				"date",
+				"date_format"
+			],
+			[
+				"lo",
+				"location_id"
+			],
+			[
+				"cou",
+				"course_id"
+			],
+			[
+				"box",
+				"box-body"
+			],
+			[
+				"has",
+				"hasLocales"
+			],
+			[
+				"enu",
+				"enumulate"
+			],
+			[
+				"re",
+				"repository"
+			],
+			[
+				"Repos",
+				"repository"
+			],
+			[
+				"E",
+				"Enumulator"
+			],
+			[
+				"nam",
+				"NamespacedEntity"
+			],
+			[
+				"tag",
+				"TaggableTrait"
+			],
+			[
+				"Ta",
+				"TaggableTrait"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"owner",
+				"owner_id"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"ur",
+				"url_info"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pr",
+				"processing"
+			],
+			[
+				"qu",
+				"queue_indexes"
+			],
+			[
+				"jo",
+				"jobs"
+			],
+			[
+				"load_",
+				"load_queue"
+			],
+			[
+				"pro",
+				"proxy_zip"
+			],
+			[
+				"success",
+				"successes"
+			],
+			[
+				"sc",
+				"scraper"
+			],
+			[
+				"a",
+				"all_results"
+			],
+			[
+				"inet",
+				"interrogator"
+			],
+			[
+				"yah",
+				"yahoo_proxy"
+			],
+			[
+				"path",
+				"path_to_logs"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ret",
+				"retData"
+			],
+			[
+				"engin",
+				"engine_url"
+			],
+			[
+				"scra",
+				"Scraper"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"array_r",
+				"array_reverse"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"P",
+				"Proxies"
+			],
+			[
+				"Dom",
+				"Domain"
+			],
+			[
+				"engine",
+				"engine_ids"
+			],
+			[
+				"eng",
+				"engine_id"
+			],
+			[
+				"currenT",
+				"current_rank"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"ra",
+				"ranking"
+			],
+			[
+				"rank",
+				"rankings"
+			],
+			[
+				"FI",
+				"FIRST_RANK"
+			],
+			[
+				"C",
+				"CONTENT"
+			],
+			[
+				"ranking",
+				"ranking_tabs"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"en",
+				"engine_id"
+			],
+			[
+				"first_",
+				"first_run"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"q",
+				"query_url"
+			],
+			[
+				"pa",
+				"page_source"
+			],
+			[
+				"goo",
+				"good_curl"
+			],
+			[
+				"rs",
+				"rsout"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"cla",
+				"class_path"
+			],
+			[
+				"domain",
+				"domain_id"
+			],
+			[
+				"array_s",
+				"array_slice"
+			],
+			[
+				"m",
+				"max_page"
+			],
+			[
+				"result",
+				"result_count"
+			],
+			[
+				"proxy",
+				"proxy_ip"
+			],
+			[
+				"Doma",
+				"domain"
+			],
+			[
+				"do",
+				"domain"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"model",
+				"model_name"
+			],
+			[
+				"field",
+				"field_name"
+			],
+			[
+				"ta",
+				"table_name"
+			],
+			[
+				"set",
+				"set_data"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 239.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Stuart/Library/Application Support/Sublime Text 3/Packages/bpToggleFolders/Default (OSX).sublime-keymap",
+		"/Users/Stuart/Work/Projects/LBP 2.sublime-project",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Themes/LBP2/package.json",
+		"/Users/Stuart/Desktop/config copy.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Themes/LBP2/views/partials/navdesktop.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Themes/LBP2/tailwind.js",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Themes/LBP2/views/partials/navigation.blade.php",
+		"/Users/Stuart/Work/Projects/lbp-v2.sublime-project",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Utility/Resources/views/admin/country/partials/edit-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Page/Repositories/PageRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Utility/Assets/js/components/CountryTable.vue",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Utility/Assets/js/components/CountryIndex.vue",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/public/js/app.js",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Core/Repositories/Eloquent/EloquentBaseRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Page/Http/Requests/UpdatePageRequest.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Http/Requests/WorkshopRequest.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Database/Migrations/2017_01_21_122714255105_create_coursican_courses_table.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Utility/Database/Migrations/2017_01_21_122714255100_create_utility_countries_table.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Database/Migrations/2017_01_21_122714255103_create_coursican_locations_table.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Repositories/Eloquent/EloquentBookingRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Entities/Clients.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Entities/Course.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/workshops/create.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/workshops/partials/create-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Entities/Workshop.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Http/Controllers/Admin/BookingController.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Database/Migrations/2017_01_21_122714255109_create_coursican_booking_clients_table.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Entities/Booking.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Database/Migrations/2017_01_21_122714255108_create_coursican_bookings_table.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Repositories/Eloquent/EloquentWorkshopRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Repositories/Eloquent/EloquentCourseRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Http/Controllers/Admin/CourseController.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Repositories/LocationRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Repositories/Eloquent/EloquentLocationRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Database/Migrations/2017_01_30_092420413820_create_coursican_recipes_table.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/lang/fr/locations.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Repositories/CourseRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Resources/views/admin/clients/index.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Utility/Resources/lang/fr/countries.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Http/Controllers/Admin/ClientsController.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Utility/Resources/lang/en/utility.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Utility/Resources/lang/fr/utility.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/locations/edit.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/locations/create.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Entities/Location.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Database/Migrations/2017_01_21_122714255101_create_client_clients_table.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Repositories/ClientsRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Repositories/BookingRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Repositories/Eloquent/EloquentClientsRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Http/Requests/ClientRequest.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Entities/LocationTranslation.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Sidebar/SidebarExtender.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Http/Controllers/Admin/LocationController.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Resources/views/admin/clients/partials/create-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/bookings/partials/create-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Resources/lang/fr/clients.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/courses/partials/create-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/lang/en/courses.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/bookings/partials/edit-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/workshops/partials/edit-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/courses/index.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/bookings/create.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/workshops/edit.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Utility/Services/Traits/Enumulator/Enumulator.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Http/Controllers/Admin/WorkshopController.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Database/Migrations/2017_06_23_174907_bookings_add_lead_contact_id.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/lang/en/workshops.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/public/themes/adminlte/css/vendor/jQueryUI/jquery-ui-1.10.3.custom.css",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Themes/Adminlte/views/layouts/master.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Media/Resources/views/admin/grid/partials/content.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Providers/RouteServiceProvider.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Database/Migrations/2017_05_19_174907_course_add_multi_day_flag.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/courses/edit.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/locations/partials/create-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/locations/partials/edit-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Resources/lang/en/clients.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/locations/partials/create-fields-translatable.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/locations/partials/edit-fields-translatable.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/workshops/index.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/courses/partials/edit-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/locations/index.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Core/Repositories/BaseRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Database/Migrations/2017_01_21_122714255107_create_coursican_workshops_table.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Core/Http/Controllers/Admin/AdminBaseController.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Http/apiRoutes.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Page/Resources/views/admin/create.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Resources/views/admin/clients/partials/edit-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Config/settings.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/courses/create.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Providers/CoursicanServiceProvider.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Core/Config/core.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Page/Repositories/Eloquent/EloquentPageRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Database/Migrations/2017_05_06_112632_location-add-default-flag.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Page/Resources/views/admin/partials/create-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Entities/CourseTranslation.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Events/CourseWasDeleted.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Events/CourseWasCreated.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Events/CourseWasUpdated.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/workshops/partials/create-fields-translatable.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/views/admin/workshops/partials/edit-fields-translatable.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/lang/fr/workshops.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Page/Resources/views/admin/partials/edit-fields.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/lang/en/locations.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/lang/en/recipes.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/lang/en/attendees.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Coursican/Resources/lang/en/bookings.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/atlantis-lbp/resources/themes/theme101/views/pattern/header.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/atlantis-lbp/vendor/atlantis-labs/atlantis3-framework/src/routes.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/atlantis-lbp/app/Http/Requests/Request.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/atlantis-lbp/app/Providers/RouteServiceProvider.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/atlantis-lbp/app/Http/Controllers/WelcomeController.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/atlantis-lbp/app/Http/Controllers/HomeController.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/atlantis-lbp/modules/atlantis/site/src/Module/Site/Controllers/SiteController.php",
+		"/Users/Stuart/Work/sql backups/_lbpasgard_2017-01-25.sql",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Resources/views/admin/clients/create.blade.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/Client/Http/Requests/CreateClientRequest.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/Modules/User/Tests/BaseUserTestCase.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/routes/api.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-v2/config/auth.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-asgard/Modules/Coursican/Database/Migrations/2017_01_21_122714255103_create_coursican_locations_table.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-asgard/Modules/User/Repositories/Sentinel/SentinelUserRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-asgard/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-asgard/Modules/Utility/Services/Traits/Enum/Enums.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-asgard/Modules/Core/Repositories/Eloquent/EloquentBaseRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-asgard/Modules/Client/Repositories/Eloquent/EloquentClientsRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-asgard/Modules/Core/Traits/NamespacedEntity.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-asgard/Modules/Core/Repositories/BaseRepository.php",
+		"/Users/Stuart/Work/Black Pig/Little Black Pig/website-asgard/Modules/Utility/Services/Traits/Enum/Enumulator.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "",
+	"project": "online_orders.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Themes/LBP2/resources/js/theme.js"
+			],
+			[
+				"lay",
+				"Themes/LBP2/views/layouts/master.blade.php"
+			],
+			[
+				"master",
+				"Themes/LBP2/views/layouts/master.blade.php"
+			],
+			[
+				"lbplay",
+				"Themes/LBP2/views/layouts/master.blade.php"
+			],
+			[
+				"widmenu",
+				"vendor/nwidart/laravel-menus/src/Menu.php"
+			],
+			[
+				"na",
+				"Themes/LBP2/views/partials/navdesktop.blade.php"
+			],
+			[
+				"tail",
+				"Themes/LBP2/tailwind.js"
+			],
+			[
+				"mediafor",
+				"Modules/Media/Assets/js/components/MediaForm.vue"
+			],
+			[
+				"fullp",
+				"Modules/Page/Transformers/FullPageTransformer.php"
+			],
+			[
+				"utiapicon",
+				"Modules/Utility/Http/Controllers/Api/CountryController.php"
+			],
+			[
+				"coufor",
+				"Modules/Utility/Assets/js/components/CountryForm.vue"
+			],
+			[
+				"pagefo",
+				"Modules/Page/Assets/js/components/PageForm.vue"
+			],
+			[
+				"utilcouedol",
+				"Modules/Utility/Resources/views/admin/country/edit.old.blade.php"
+			],
+			[
+				"utilcouedi",
+				"Modules/Utility/Resources/views/admin/country/edit.blade.php"
+			],
+			[
+				"utileditfi",
+				"Modules/Utility/Resources/views/admin/country/partials/edit-fields.blade.php"
+			],
+			[
+				"country",
+				"Modules/Utility/Resources/lang/en/country.php"
+			],
+			[
+				"couta",
+				"Modules/Utility/Assets/js/components/CountryTable.vue"
+			],
+			[
+				"countra",
+				"Modules/Utility/Transformers/CountryTransformer.php"
+			],
+			[
+				"elopag",
+				"Modules/Page/Repositories/Eloquent/EloquentPageRepository.php"
+			],
+			[
+				"eloqcou",
+				"Modules/Utility/Repositories/Eloquent/EloquentCountryRepository.php"
+			],
+			[
+				"userco",
+				"Modules/User/Http/Controllers/Api/UserController.php"
+			],
+			[
+				"pagere",
+				"Modules/Page/Repositories/PageRepository.php"
+			],
+			[
+				"coutra",
+				"Modules/Utility/Transformers/CountryTransformer.php"
+			],
+			[
+				"utility",
+				"Modules/Utility/Providers/UtilityServiceProvider.php"
+			],
+			[
+				"apicou",
+				"Modules/Utility/Http/Controllers/Api/CountryController.php"
+			],
+			[
+				"fullcoutry",
+				"Modules/Utility/Transformers/FullCountryTransformer.php"
+			],
+			[
+				"countransf",
+				"Modules/Utility/Transformers/CountryTransformer.php"
+			],
+			[
+				"courou",
+				"Modules/Utility/Assets/js/CountryRoutes.js"
+			],
+			[
+				"pager",
+				"public/__modules/page/js/PageRoutes.js"
+			],
+			[
+				"countrta",
+				"Modules/Utility/Assets/js/components/CountryTable.vue"
+			],
+			[
+				"pagetabe",
+				"Modules/Page/Assets/js/components/PageTable.vue"
+			],
+			[
+				"utiliserv",
+				"Modules/Utility/Providers/UtilityServiceProvider.php"
+			],
+			[
+				"tranffullpa",
+				"Modules/Page/Transformers/FullPageTransformer.php"
+			],
+			[
+				"client",
+				"Modules/Client/Entities/Clients.php"
+			],
+			[
+				"eloboo",
+				"Modules/Coursican/Repositories/Eloquent/EloquentBookingRepository.php"
+			],
+			[
+				"booki",
+				"Modules/Coursican/Entities/Booking.php"
+			],
+			[
+				"book",
+				"Modules/Coursican/Http/Controllers/Admin/BookingController.php"
+			],
+			[
+				"work",
+				"Modules/Coursican/Entities/Workshop.php"
+			],
+			[
+				"couworkcre",
+				"Modules/Coursican/Resources/views/admin/workshops/create.blade.php"
+			],
+			[
+				"course",
+				"Modules/Coursican/Entities/Course.php"
+			],
+			[
+				"elobook",
+				"Modules/Coursican/Repositories/Eloquent/EloquentBookingRepository.php"
+			],
+			[
+				"b",
+				"Modules/Coursican/Entities/Booking.php"
+			],
+			[
+				"clientcreate",
+				"Modules/Client/Resources/views/admin/clients/partials/create-fields.blade.php"
+			],
+			[
+				"enu",
+				"Modules/Utility/Services/Traits/Enumulator/Enumulator.php"
+			],
+			[
+				"clien",
+				"Modules/Client/Entities/Clients.php"
+			],
+			[
+				"clients",
+				"Modules/Client/Entities/Clients.php"
+			],
+			[
+				"enuma",
+				"Modules/Utility/Services/Traits/Enumulator/Enumulator.php"
+			],
+			[
+				"entitclient",
+				"Modules/Client/Entities/Clients.php"
+			],
+			[
+				"admbook",
+				"Modules/Coursican/Http/Controllers/Admin/BookingController.php"
+			],
+			[
+				"works",
+				"Modules/Coursican/Entities/Workshop.php"
+			],
+			[
+				"bookcreat",
+				"Modules/Coursican/Resources/views/admin/bookings/create.blade.php"
+			],
+			[
+				"bookedit",
+				"Modules/Coursican/Resources/views/admin/bookings/partials/edit-fields.blade.php"
+			],
+			[
+				"admibook",
+				"Modules/Coursican/Http/Controllers/Admin/BookingController.php"
+			],
+			[
+				"worksh",
+				"Modules/Coursican/Entities/Workshop.php"
+			],
+			[
+				"wor",
+				"Modules/Coursican/Entities/Workshop.php"
+			],
+			[
+				"eloclie",
+				"Modules/Client/Repositories/Eloquent/EloquentClientsRepository.php"
+			],
+			[
+				"workedib",
+				"Modules/Coursican/Resources/views/admin/workshops/edit.blade.php"
+			],
+			[
+				"eloboorep",
+				"Modules/Coursican/Repositories/Eloquent/EloquentBookingRepository.php"
+			],
+			[
+				"bookrepo",
+				"Modules/Coursican/Repositories/BookingRepository.php"
+			],
+			[
+				"clie",
+				"Modules/Client/Entities/Clients.php"
+			],
+			[
+				"workindex",
+				"Modules/Coursican/Resources/views/admin/workshops/index.blade.php"
+			],
+			[
+				"worksho",
+				"Modules/Coursican/Entities/Workshop.php"
+			],
+			[
+				"wo",
+				"Modules/Coursican/Http/Controllers/Admin/WorkshopController.php"
+			],
+			[
+				"workcont",
+				"Modules/Coursican/Http/Controllers/Admin/WorkshopController.php"
+			],
+			[
+				"bookc",
+				"Modules/Coursican/Http/Controllers/Admin/BookingController.php"
+			],
+			[
+				"workshopcont",
+				"Modules/Coursican/Http/Controllers/Admin/WorkshopController.php"
+			],
+			[
+				"workedit",
+				"Modules/Coursican/Resources/views/admin/workshops/edit.blade.php"
+			],
+			[
+				"workco",
+				"Modules/Coursican/Http/Controllers/Admin/WorkshopController.php"
+			],
+			[
+				"workcret",
+				"Modules/Coursican/Resources/views/admin/workshops/create.blade.php"
+			],
+			[
+				"clicrefi",
+				"Modules/Client/Resources/views/admin/clients/partials/create-fields.blade.php"
+			],
+			[
+				"workcrefie",
+				"Modules/Coursican/Resources/views/admin/workshops/partials/create-fields.blade.php"
+			],
+			[
+				"workshcreat",
+				"Modules/Coursican/Resources/views/admin/workshops/create.blade.php"
+			],
+			[
+				"coursidataboo",
+				"Modules/Coursican/Database/Migrations/2017_01_21_122714255108_create_coursican_bookings_table.php"
+			],
+			[
+				"workindexbla",
+				"Modules/Coursican/Resources/views/admin/workshops/index.blade.php"
+			],
+			[
+				"workshop",
+				"Modules/Coursican/Entities/Workshop.php"
+			],
+			[
+				"location",
+				"Modules/Coursican/Entities/Location.php"
+			],
+			[
+				"woco",
+				"Modules/Coursican/Http/Controllers/Admin/WorkshopController.php"
+			],
+			[
+				"entiwork",
+				"Modules/Coursican/Entities/Workshop.php"
+			],
+			[
+				"worc",
+				"Modules/Coursican/Http/Controllers/Admin/WorkshopController.php"
+			],
+			[
+				"workscreafie",
+				"Modules/Coursican/Resources/views/admin/workshops/partials/create-fields.blade.php"
+			],
+			[
+				"workcrb",
+				"Modules/Coursican/Resources/views/admin/workshops/create.blade.php"
+			],
+			[
+				"workcreafi",
+				"Modules/Coursican/Resources/views/admin/workshops/partials/create-fields.blade.php"
+			],
+			[
+				"editfie",
+				"Modules/Coursican/Resources/views/admin/workshops/partials/edit-fields.blade.php"
+			],
+			[
+				"locacon",
+				"Modules/Coursican/Http/Controllers/Admin/LocationController.php"
+			],
+			[
+				"adminloc",
+				"Modules/Coursican/Http/Controllers/Admin/LocationController.php"
+			],
+			[
+				"entlocatio",
+				"Modules/Coursican/Entities/Location.php"
+			],
+			[
+				"worksedit",
+				"Modules/Coursican/Resources/views/admin/workshops/edit.blade.php"
+			],
+			[
+				"woinde",
+				"Modules/Coursican/Resources/views/admin/workshops/index.blade.php"
+			],
+			[
+				"edit-f",
+				"Modules/Coursican/Resources/views/admin/workshops/partials/edit-fields.blade.php"
+			],
+			[
+				"cours",
+				"Modules/Coursican/Entities/Course.php"
+			],
+			[
+				"workshcont",
+				"Modules/Coursican/Http/Controllers/Admin/WorkshopController.php"
+			],
+			[
+				"edit",
+				"Modules/Coursican/Resources/views/admin/workshops/edit.blade.php"
+			],
+			[
+				"courseiworkedit",
+				"Modules/Coursican/Resources/views/admin/workshops/partials/edit-fields.blade.php"
+			],
+			[
+				"coiurlang",
+				"Modules/Coursican/Resources/lang/en/courses.php"
+			],
+			[
+				"courinde",
+				"Modules/Coursican/Resources/views/admin/courses/index.blade.php"
+			],
+			[
+				"couradmiedit",
+				"Modules/Coursican/Resources/views/admin/courses/edit.blade.php"
+			],
+			[
+				"coursecont",
+				"Modules/Coursican/Http/Controllers/Admin/CourseController.php"
+			],
+			[
+				"entwork",
+				"Modules/Coursican/Entities/Workshop.php"
+			],
+			[
+				"enum",
+				"Modules/Utility/Services/Traits/Enumulator/Enumulator.php"
+			],
+			[
+				"cliencon",
+				"Modules/Client/Http/Controllers/Admin/ClientsController.php"
+			],
+			[
+				"wokco",
+				"Modules/Coursican/Http/Controllers/Admin/WorkshopController.php"
+			],
+			[
+				"mast",
+				"Themes/Adminlte/views/layouts/master.blade.php"
+			],
+			[
+				"coucon",
+				"Modules/Coursican/Http/Controllers/Admin/CourseController.php"
+			],
+			[
+				"cowasdel",
+				"Modules/Coursican/Events/CourseWasDeleted.php"
+			],
+			[
+				"pageeloq",
+				"Modules/Page/Repositories/Eloquent/EloquentPageRepository.php"
+			],
+			[
+				"pagepartedit",
+				"Modules/Page/Resources/views/admin/partials/edit-fields.blade.php"
+			],
+			[
+				"cour",
+				"Modules/Coursican/Entities/Course.php"
+			],
+			[
+				"cou",
+				"Modules/Coursican/Repositories/CourseRepository.php"
+			],
+			[
+				"clicontr",
+				"Modules/Client/Http/Controllers/Admin/ClientsController.php"
+			],
+			[
+				"clielore",
+				"Modules/Client/Repositories/Eloquent/EloquentClientsRepository.php"
+			],
+			[
+				"paghttrequ",
+				"Modules/Page/Http/Requests/UpdatePageRequest.php"
+			],
+			[
+				"coursrequ",
+				"Modules/Coursican/Http/Requests/CourseRequest.php"
+			],
+			[
+				"courreq",
+				"Modules/Coursican/Http/Requests/CourseRequest.php"
+			],
+			[
+				"courscontrol",
+				"Modules/Coursican/Http/Controllers/Admin/CourseController.php"
+			],
+			[
+				"loaccon",
+				"Modules/Coursican/Http/Controllers/Admin/LocationController.php"
+			],
+			[
+				"clientcontr",
+				"Modules/Client/Http/Controllers/Admin/ClientsController.php"
+			],
+			[
+				"locatcrea",
+				"Modules/Coursican/Resources/views/admin/locations/partials/create-fields.blade.php"
+			],
+			[
+				"locapart",
+				"Modules/Coursican/Resources/views/admin/locations/partials/create-fields.blade.php"
+			],
+			[
+				"locatio",
+				"Modules/Coursican/Http/Controllers/Admin/LocationController.php"
+			],
+			[
+				"clientcontrol",
+				"Modules/Client/Http/Controllers/Admin/ClientsController.php"
+			],
+			[
+				"modulpageresopart",
+				"Modules/Page/Resources/views/admin/partials/create-fields.blade.php"
+			],
+			[
+				"cliparcrebl",
+				"Modules/Client/Resources/views/admin/clients/partials/create-fields.blade.php"
+			],
+			[
+				"utilienticoun",
+				"Modules/Utility/Entities/Country.php"
+			],
+			[
+				"clientitcli",
+				"Modules/Client/Entities/Clients.php"
+			],
+			[
+				"utilireslang",
+				"Modules/Utility/Resources/lang/en/countries.php"
+			],
+			[
+				"modcliresadmpart",
+				"Modules/Client/Resources/views/admin/clients/partials/create-fields.blade.php"
+			],
+			[
+				"cliecreate",
+				"Modules/Client/Resources/views/admin/clients/create.blade.php"
+			],
+			[
+				"clierteq",
+				"Modules/Client/Http/Requests/ClientRequest.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
